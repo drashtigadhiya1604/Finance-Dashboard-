@@ -1,4 +1,4 @@
-# Finance-Dashboard-
+# Finance-Dashboard
 💰 Financial Planning & Budget Dashboard
 
 📌 Project Overview
